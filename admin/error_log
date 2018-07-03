@@ -1,0 +1,108 @@
+[10-Jun-2018 00:37:23 UTC] PHP Warning:  include_once(includes/functions.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/cms/admin/includes/admin_header.php on line 3
+[10-Jun-2018 00:37:23 UTC] PHP Warning:  include_once(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/cms/admin/includes/admin_header.php on line 3
+[10-Jun-2018 00:37:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insert_categories() in /home/chrisdaw/public_html/cms/admin/categories.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/cms/admin/categories.php on line 37
+[10-Jun-2018 00:37:25 UTC] PHP Warning:  include_once(includes/functions.php): failed to open stream: No such file or directory in /home/chrisdaw/public_html/cms/admin/includes/admin_header.php on line 3
+[10-Jun-2018 00:37:25 UTC] PHP Warning:  include_once(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/chrisdaw/public_html/cms/admin/includes/admin_header.php on line 3
+[10-Jun-2018 00:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function insert_categories() in /home/chrisdaw/public_html/cms/admin/categories.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/chrisdaw/public_html/cms/admin/categories.php on line 37
+[15-Jun-2018 03:00:29 UTC] PHP Notice:  Undefined variable: post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 70
+[15-Jun-2018 03:12:02 UTC] PHP Notice:  Undefined variable: cat_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 50
+[15-Jun-2018 03:13:13 UTC] PHP Notice:  Undefined variable: cat_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 50
+[15-Jun-2018 03:13:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 57
+[15-Jun-2018 03:33:01 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 34
+[15-Jun-2018 03:33:01 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 35
+[15-Jun-2018 03:33:01 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 38
+[15-Jun-2018 03:33:01 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 39
+[15-Jun-2018 03:33:01 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[15-Jun-2018 03:36:32 UTC] PHP Notice:  Constant DB_HOST already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:32 UTC] PHP Notice:  Constant DB_USER already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:32 UTC] PHP Notice:  Constant DB_PASS already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:32 UTC] PHP Notice:  Constant DB_NAME already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Constant DB_HOST already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Constant DB_USER already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Constant DB_PASS already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Constant DB_NAME already defined in /home/chrisdaw/public_html/cms/includes/db.php on line 13
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[15-Jun-2018 03:36:39 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[15-Jun-2018 03:39:12 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[15-Jun-2018 03:39:12 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[15-Jun-2018 03:39:12 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[15-Jun-2018 03:39:12 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[15-Jun-2018 03:39:12 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[15-Jun-2018 03:41:07 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[15-Jun-2018 03:41:07 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[15-Jun-2018 03:41:07 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[15-Jun-2018 03:41:07 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[15-Jun-2018 03:41:07 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[15-Jun-2018 03:41:58 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[15-Jun-2018 03:41:58 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[15-Jun-2018 03:41:58 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[15-Jun-2018 03:41:58 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[15-Jun-2018 03:41:58 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[15-Jun-2018 03:49:19 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[15-Jun-2018 03:49:19 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[15-Jun-2018 03:49:19 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[15-Jun-2018 03:49:19 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[15-Jun-2018 03:49:19 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:07:24 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:07:24 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:07:24 UTC] PHP Notice:  Undefined index: post_category_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 38
+[16-Jun-2018 02:07:24 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:07:24 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:07:24 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:13:29 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:13:29 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:13:29 UTC] PHP Notice:  Undefined index: post_category_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 38
+[16-Jun-2018 02:13:29 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:13:29 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:13:29 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:23:18 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:23:18 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:23:18 UTC] PHP Notice:  Undefined index: post_category_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 38
+[16-Jun-2018 02:23:18 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:23:18 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:23:18 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:23:24 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:23:24 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:23:24 UTC] PHP Notice:  Undefined index: post_category_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 38
+[16-Jun-2018 02:23:24 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:23:24 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:23:24 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:24:04 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:24:04 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:24:04 UTC] PHP Notice:  Undefined index: post_category_id in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 38
+[16-Jun-2018 02:24:04 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:24:04 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:24:04 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function escape() in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php:5
+Stack trace:
+#0 /home/chrisdaw/public_html/cms/admin/posts.php(48): include()
+#1 {main}
+  thrown in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 5
+[16-Jun-2018 02:40:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 155
+[16-Jun-2018 02:40:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 155
+[16-Jun-2018 02:42:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 155
+[16-Jun-2018 02:43:28 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:43:28 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:43:28 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:43:28 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:43:28 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:43:28 UTC] PHP Notice:  Undefined variable: post_user in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 51
+[16-Jun-2018 02:43:51 UTC] PHP Notice:  Undefined index: post_author in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 36
+[16-Jun-2018 02:43:51 UTC] PHP Notice:  Undefined index: post_title in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 37
+[16-Jun-2018 02:43:51 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:43:51 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:43:51 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:52:27 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 40
+[16-Jun-2018 02:52:27 UTC] PHP Notice:  Undefined index: image in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 41
+[16-Jun-2018 02:52:27 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:55:26 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42
+[16-Jun-2018 02:56:11 UTC] PHP Notice:  Undefined index: $post_content in /home/chrisdaw/public_html/cms/admin/includes/edit_post.php on line 42

@@ -1,0 +1,1 @@
+Technology Used: PHP, Bootstrap, HTML, CSS, mysqli API, JavaScript

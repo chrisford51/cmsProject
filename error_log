@@ -1,0 +1,9 @@
+[31-May-2018 02:42:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/chrisdaw/public_html/cms/includes/navigation.php on line 32
+[31-May-2018 02:43:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/chrisdaw/public_html/cms/includes/navigation.php on line 33
+[06-Jun-2018 01:14:38 UTC] PHP Notice:  Undefined index: search in /home/chrisdaw/public_html/cms/includes/sidebar.php on line 5
+[06-Jun-2018 01:15:18 UTC] PHP Notice:  Undefined index: search in /home/chrisdaw/public_html/cms/includes/sidebar.php on line 5
+[06-Jun-2018 01:16:33 UTC] PHP Notice:  Undefined index: search in /home/chrisdaw/public_html/cms/includes/sidebar.php on line 5
+[06-Jun-2018 01:25:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/cms/includes/sidebar.php on line 23
+[06-Jun-2018 01:25:52 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/chrisdaw/public_html/cms/includes/sidebar.php on line 23
+[09-Jun-2018 20:11:20 UTC] PHP Notice:  Undefined variable: select_all_posts_query in /home/chrisdaw/public_html/cms/search.php on line 54
+[09-Jun-2018 20:11:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/chrisdaw/public_html/cms/search.php on line 54
